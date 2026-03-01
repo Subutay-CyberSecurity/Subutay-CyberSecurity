@@ -60,5 +60,4 @@ Ben Subutay. 12 yaşında kodlamaya başladım; ilk dönemlerde sistemlerin nas�
 
 ---
 
-> "Understanding how something works is good.  
-> Understanding how it breaks is better."
+> "Understanding how something works is good. Understanding how it breaks is better."
